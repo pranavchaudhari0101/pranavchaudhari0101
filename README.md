@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pranavchaudhari0101
-- 👀 I’m interested in ... Jobs
+- 👀 I’m interested in creating software through html css java also like to integrate Ai in it
 - 🌱 I’m currently learning ... Electronic and Telecommunication Enginnering
 - 📫 How to reach me ... on my linkdin Id - pranav chaudhari
 
